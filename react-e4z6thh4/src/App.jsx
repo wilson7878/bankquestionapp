@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-
+import './style.css';
 
 const Card = ({ children, className = "", ...rest }) => (
   <motion.div {...rest} className={`rounded-xl border shadow-sm bg-white dark:bg-zinc-900 dark:border-zinc-700 ${className}`}>
