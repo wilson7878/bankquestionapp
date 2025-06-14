@@ -1,10 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 
-// ...后面代码同你的原始内容
-
-import { useState, useEffect } from "react";
-import { motion } from "framer-motion";
 
 const Card = ({ children, className = "", ...rest }) => (
   <motion.div {...rest} className={`rounded-xl border shadow-sm bg-white dark:bg-zinc-900 dark:border-zinc-700 ${className}`}>
