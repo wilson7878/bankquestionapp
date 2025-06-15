@@ -3,7 +3,7 @@
 
 一个轻量级、零后端的银行客服经理考试刷题 Web 应用。基于 **React 18 + TailwindCSS + framer-motion** 构建，静态化部署到任意 CDN（Vercel / Netlify / Gitee Pages / OSS 等）。支持章节练习、成绩统计、错题本、多选题 / 判断题渲染等功能，手机 & 桌面双端友好。
 
-![screenshot](./screenshot.png)
+![screenshot](./pic/login.jpg)
 
 ---
 
