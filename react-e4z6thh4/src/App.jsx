@@ -61,7 +61,7 @@ export default function QuizApp() {
   const [prog, setProg] = useState({});
 
   // 激活码逻辑
-  const validCodes = ["ABC123", "XYZ789", "HELLO2025"];
+  const validCodes = ["liangjunenbaba","ABC123", "XYZ789", "HELLO2025"];
   const activate = () => {
     const trimmed = code.trim();
     if (validCodes.includes(trimmed)) {
