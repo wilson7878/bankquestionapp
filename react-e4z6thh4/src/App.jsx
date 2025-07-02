@@ -31,9 +31,9 @@ const LS_WRONG = "quiz-wrong";
 
 // 题库配置
 const FILES = [
-  { path: "/single.json", prefix: "s-" },
-  { path: "/multi.json", prefix: "m-" },
-  { path: "/judge.json", prefix: "j-" },
+  { path: "/single2.json", prefix: "s-" },
+  { path: "/multi2.json", prefix: "m-" },
+  { path: "/judge2.json", prefix: "j-" },
 ];
 const fallbackQuestions = [
   { id: "demo-1", chapter: "示例章节1", text: "备用单选题示例1", options: ["A","B","C","D"], answer: 0 },
